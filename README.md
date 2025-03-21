@@ -1,6 +1,3 @@
-# Layer-Edge
-
-
 # LayerEdge
 
 ![1500x500](https://github.com/user-attachments/assets/b9412116-6613-40ce-b04e-dd49c905bfca)
